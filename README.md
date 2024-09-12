@@ -3,12 +3,21 @@
 I have designed wire breaking indicator circuit layout on PCB using KiCAD software . If there is any break
 in the wire , the circuit indicates wire breakage by glowing of LED. 
 
+## Components Used :
+1) IRFZ44N MOSFET -1
+2) LED-1
+3) 33k(RESISTOR)-1
+4) 150k(RESISTOR)-1
+5) WIRE
+
 ##   Schematic Diagram
 The schematic diagram of the circuit is 
-
-
 ![alt text](im.png)
 
-Video
-[wire break indication[Compress].mp4](https://github.com/<username>/<repository>/blob/main/video.mp4?raw=true)
+## Video demonstrating the working of PCB.
+
+[![click here]([https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>](https://drive.google.com/file/d/16Ncxjm3U25_dvyPrGxnD5pfZJSPH5DQe/view?usp=drive_link))
+
+
+
 

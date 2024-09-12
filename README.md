@@ -8,3 +8,7 @@ The schematic diagram of the circuit is
 
 
 ![alt text](im.png)
+
+Video
+![alt text](wire break indication[Compress].mp4)
+

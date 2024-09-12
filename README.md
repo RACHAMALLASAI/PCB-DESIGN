@@ -16,7 +16,9 @@ The schematic diagram of the circuit is
 
 ## Video demonstrating the working of PCB.
 
-[![click here]([https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>](https://drive.google.com/file/d/16Ncxjm3U25_dvyPrGxnD5pfZJSPH5DQe/view?usp=drive_link))
+
+
+[Watch the video](https://drive.google.com/file/d/16Ncxjm3U25_dvyPrGxnD5pfZJSPH5DQe/view?usp=drive_link)
 
 
 

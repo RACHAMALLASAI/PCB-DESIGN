@@ -13,7 +13,9 @@ in the wire , the circuit indicates wire breakage by glowing of LED.
 ##   Schematic Diagram
 ![alt text](im.png)
 
-## Footprint of PCB layout of the circuit after implementing in KiCADD software.
+## Footprint  of the circuit after implementing in KiCADD software.
+![alt text](footprint.png)
+
 
 ## Video demonstrating the working of PCB.
 

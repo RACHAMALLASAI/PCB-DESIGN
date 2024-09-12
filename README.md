@@ -10,5 +10,5 @@ The schematic diagram of the circuit is
 ![alt text](im.png)
 
 Video
-![alt text](wire break indication[Compress].mp4)
+[wire break indication[Compress].mp4](https://github.com/<username>/<repository>/blob/main/video.mp4?raw=true)
 

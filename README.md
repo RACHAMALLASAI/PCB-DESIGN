@@ -1,9 +1,6 @@
 # PCB-DESIGN
-## Working
-I have designed wire breaking indicator circuit layout on PCB using KiCAD software . If there is any break
-in the wire , the circuit indicates wire breakage by glowing of LED. 
-
 ## Components Used :
+![alt text](mosfet.png)
 1) IRFZ44N MOSFET -1
 2) LED-1
 3) 33k(RESISTOR)-1
@@ -13,8 +10,13 @@ in the wire , the circuit indicates wire breakage by glowing of LED.
 ##   Schematic Diagram
 ![alt text](im.png)
 
+## Working
+In this Wire Break Alarm Circuit, initially when the power is given, the current flows from Vcc to the ground through the loop wire. When we disconnect or cut the wire, the current starts to flow from Vcc to the gate pin of MOSFET. This triggers the MOSFET and the current starts flowing from drain to source. Hence, power up the connected load. In our indicator circuit load is LED . So LED glows . This will notify the device owner that the internal circuit has been broken
+
 ## Footprint  of the circuit after implementing in KiCADD software.
 ![alt text](footprint.png)
+
+## Working
 
 
 ## Video demonstrating the working of PCB.

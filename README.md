@@ -11,8 +11,9 @@ in the wire , the circuit indicates wire breakage by glowing of LED.
 5) WIRE
 
 ##   Schematic Diagram
-The schematic diagram of the circuit is 
 ![alt text](im.png)
+
+## PCB layout of the circuit after implementing in KiCADD software.
 
 ## Video demonstrating the working of PCB.
 

@@ -16,7 +16,7 @@ In this Wire Break Alarm Circuit, initially when the power is given, the current
 ## Footprint  of the circuit after implementing in KiCADD software.
 ![alt text](footprint.png)
 
-#Circuit Diagram on PCB
+##Circuit Diagram on PCB
 
 ![alt text](pcb.png)
 
